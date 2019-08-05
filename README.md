@@ -1,7 +1,7 @@
 # Human-Aware Motion Deblurring
 =======================================================================================
 
-[Ziyi Shen](https://sites.google.com/site/ziyishenmi/), Wenguan Wang, Xiankai Lu, Jianbin Shen, Haibin Ling, Tingfa Xu and Ling Shao
+[Ziyi Shen](https://sites.google.com/site/ziyishenmi/), [Wenguan Wang](https://sites.google.com/view/wenguanwang/), [Xiankai Lu](https://sites.google.com/site/xiankailu111/), [Jianbin Shen](http://iitlab.bit.edu.cn/mcislab/~shenjianbing/), [Haibin Ling](https://www3.cs.stonybrook.edu/~hling/), Tingfa Xu and [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en)
 
 
 International Conference on Computer Vision (ICCV), 2019
@@ -14,7 +14,7 @@ International Conference on Computer Vision (ICCV), 2019
 
 
 
-Citation 
+### Citation 
 @inproceedings{HAdeblur,
 
   author    = {Shen, Ziyi and Wang, Wenguan and Shen, Jianbing and Ling, Haibin and Xu, Tingfa and Shao, Ling}, 
