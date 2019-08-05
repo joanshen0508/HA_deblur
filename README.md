@@ -15,7 +15,7 @@ International Conference on Computer Vision (ICCV), 2019
 
 
 ### Citation 
-@inproceedings{HAdeblur,
+''@inproceedings{HAdeblur,
 
   author    = {Shen, Ziyi and Wang, Wenguan and Shen, Jianbing and Ling, Haibin and Xu, Tingfa and Shao, Ling}, 
 
@@ -25,4 +25,4 @@ International Conference on Computer Vision (ICCV), 2019
 
  year      = {2019}
 
-}
+}''
