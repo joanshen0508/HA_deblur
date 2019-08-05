@@ -1,9 +1,8 @@
-# HA_deblur
+# Human-Aware Motion Deblurring
 =======================================================================================
 
 Ziyi Shen, Wenguan Wang, Xiankai Lu, Jianbin Shen, Haibin Ling, Tingfa Xu and Ling Shao
 
-Human-Aware Motion Deblurring
 
 International Conference on Computer Vision (ICCV), 2019
 
