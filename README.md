@@ -13,6 +13,7 @@ In this work, we propose a new blurry image dataset (HIDE) with respect to the d
 
 We provide the HIDE dataset with a blurry and sharp images pair, it could be downloaded from HIDE_dataset.
 
+![image](example.png)
 
 
 
