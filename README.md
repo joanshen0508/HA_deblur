@@ -11,7 +11,7 @@ International Conference on Computer Vision (ICCV), 2019
 ## Dataset
 In this work, we propose a new blurry image dataset (HIDE) with respect to the dynamic deblurring problem. The multiple blurs caused by the relative movement between an imaging device and a scene, mainly include camera shaking and object movement. To fully capture the dynamic blurs caused by the passive device interference and initiative actions, our HIDE dataset is eleborately collected to cover both wide-range and close-range scenes and address human-aware motion deblurring. 
 
-We provide the HIDE dataset with a blurry and sharp images pair, it could be downloaded from HIDE_dataset.
+We release the HIDE dataset with the blurry and sharp image pair, the foreground human bounding box annotations as well be provided for this human-aware deblurring task. It could be downloaded from HIDE_dataset.
 
 ![image](example.png)
 
