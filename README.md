@@ -16,7 +16,7 @@ We release the HIDE dataset with the blurry and sharp image pair, it could be do
 |HIDE | Training | Testing
 |----|----|----
 |　| Scattered Crowded|Long-sho Close-shot
-|Images|6397|1063 962
+|Images|6397|1063     962
 
 
 
