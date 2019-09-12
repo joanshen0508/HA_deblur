@@ -13,10 +13,11 @@ In this work, we propose a new blurry image dataset (HIDE) with respect to the d
 
 We release the HIDE dataset with the blurry and sharp image pair, it could be downloaded from HIDE_dataset.
 
-|HIDE | Training | Testing()| Testing()
+|HIDE | Training | Testing(Long-shot)| Testing(Close-shot)
 |----|----|----|----
-| | Scattered | Crowded| Long-shot | Close-shot|
-|Images|4202
+|----|----|----|----
+
+|Images|6397|1063|962|
 
 The foreground human bounding box annotations as well be provided for this human-aware delurrring task (Coming Soon).
 
