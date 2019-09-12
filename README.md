@@ -15,6 +15,8 @@ We release the HIDE dataset with the blurry and sharp image pair, it could be do
 
 |HIDE | Training | Testing()| Testing()
 |----|----|----|----
+| | Scattered | Crowded| Long-shot | Close-shot|
+|Images|4202
 
 The foreground human bounding box annotations as well be provided for this human-aware delurrring task (Coming Soon).
 
