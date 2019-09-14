@@ -33,7 +33,7 @@ The foreground human bounding box annotations as well be provided for this human
 ```
 @inproceedings{HAdeblur,
    author={Shen, Ziyi and Wang, Wenguan and Shen, Jianbing and Ling, Haibin and Xu, Tingfa and Shao, Ling}, 
-   title={Motion Deblurring via Human-Aware Attention Network}, 
+   title={Human-Aware Motion Deblurring}, 
    booktitle={IEEE International Conference on Computer Vision},
    year={2019}
 }
