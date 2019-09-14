@@ -13,10 +13,9 @@ In this work, we propose a new blurry image dataset (HIDE) with respect to the d
 
 We release the HIDE dataset with the blurry and sharp image pair, it could be downloaded from HIDE_dataset.
 
-|HIDE | Training<br />Scattered Crowded<br />| Testing
-
-|　| Scattered Crowded|Long-shot Close-shot
-|Images|6397|1063     962
+| HIDE | <font size="1"> Quantity of People<br /> (Scattered /Crowded) |Depth of Object<br />(Long-shot/Close-ups)|Dataset Splits<br />(Training/Testing)|
+|:---------:|:----------------------------------:|:----:|:----:
+|8422|4202/4220|1304/7118(HIDE I/ HIDE II)|6397/2025
 
 
 
